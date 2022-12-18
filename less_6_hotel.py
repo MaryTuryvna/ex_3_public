@@ -19,6 +19,4 @@ sum_money = (sum_pay * sum_discount)/100
 sum_result = sum_pay - sum_money
 
 print("Вам нараховано знижку %d" % sum_discount + "%")
-
 print("Сума зі знижкою %d грн" % sum_result)
-
